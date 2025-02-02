@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Untitled",
+    "file": "samples/Be_Curious_Not_Judgemental.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/You_appreciate_a_bloke_.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/Something_to_look_up_to.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
